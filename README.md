@@ -2,6 +2,6 @@
 Chat App like whatsApp
 
 # Usage 
-Firebase,Realm,MapKit
+Firebase,Realm,MassageKit
 
 # Video Review
